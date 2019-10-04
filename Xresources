@@ -1,0 +1,44 @@
+!--------------------xdefauls
+URxvt*termName:  screen-256color
+
+
+URxvt.font: xft:monoid:pixelsize=13
+urxvt*termName: rxvt
+urxvt*scrollBar: false
+urxvt*matcher.button: 1
+urxvt.transparent: true
+urxvt.boldFont:
+URxvt.letterSpace: 0
+Xft*dpi: 96
+Xft*antialias: true
+Xft*hinting: true
+Xft*hintstyle: hintfull
+URxvt*cursorUnderline: true
+Xft*rgba: rgb
+jRxvt*geometry: 240x84
+*internalBorder: 26
+URxvt*fading: 0
+URxvt*tintColor: #ffffff
+URxvt*shading: 0
+URxvt*colorUL:  yellow 
+URxvt*inheritPixmap: False
+*background:	#20242c
+*foreground:	#80ab72
+
+*color0:	#2e3239
+*color1:	#ba6977
+*color2:	#af79cb
+*color3:	#0000FF
+*color5:	#b28359
+*color4:	#58698c
+*color6:	#82a1b2
+
+*color7:	#cccaca
+*color8:	#525c67
+*color9:	#ba7e6c
+*color10:	#a9c88f
+*color11:	#f9d48c
+*color12:	#6c7da0
+*color13:	#8f72a1
+*color14:	#96b5c6
+*color15:	#e0dede
